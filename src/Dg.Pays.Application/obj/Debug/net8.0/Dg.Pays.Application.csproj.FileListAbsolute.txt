@@ -1,0 +1,15 @@
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\bin\Debug\net8.0\Dg.Pays.Application.deps.json
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\bin\Debug\net8.0\Dg.Pays.Application.dll
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\bin\Debug\net8.0\Dg.Pays.Application.pdb
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\bin\Debug\net8.0\Dg.Pays.Domain.dll
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\bin\Debug\net8.0\Dg.Pays.Domain.pdb
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\obj\Debug\net8.0\Dg.Pays.Application.csproj.AssemblyReference.cache
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\obj\Debug\net8.0\Dg.Pays.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\obj\Debug\net8.0\Dg.Pays.Application.AssemblyInfoInputs.cache
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\obj\Debug\net8.0\Dg.Pays.Application.AssemblyInfo.cs
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\obj\Debug\net8.0\Dg.Pays.Application.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\obj\Debug\net8.0\Dg.Pays..0ADCBB0F.Up2Date
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\obj\Debug\net8.0\Dg.Pays.Application.dll
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\obj\Debug\net8.0\refint\Dg.Pays.Application.dll
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\obj\Debug\net8.0\Dg.Pays.Application.pdb
+C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Application\obj\Debug\net8.0\ref\Dg.Pays.Application.dll
