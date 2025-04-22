@@ -9,3 +9,15 @@ C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.
 C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Domain\obj\Debug\net8.0\refint\Dg.Pays.Domain.dll
 C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Domain\obj\Debug\net8.0\Dg.Pays.Domain.pdb
 C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Domain\obj\Debug\net8.0\ref\Dg.Pays.Domain.dll
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\bin\Debug\net8.0\Dg.Pays.Domain.deps.json
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\bin\Debug\net8.0\Dg.Pays.Domain.dll
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\bin\Debug\net8.0\Dg.Pays.Domain.pdb
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\obj\Debug\net8.0\Dg.Pays.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\obj\Debug\net8.0\Dg.Pays.Domain.AssemblyInfoInputs.cache
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\obj\Debug\net8.0\Dg.Pays.Domain.AssemblyInfo.cs
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\obj\Debug\net8.0\Dg.Pays.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\obj\Debug\net8.0\Dg.Pays.Domain.sourcelink.json
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\obj\Debug\net8.0\Dg.Pays.Domain.dll
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\obj\Debug\net8.0\refint\Dg.Pays.Domain.dll
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\obj\Debug\net8.0\Dg.Pays.Domain.pdb
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Domain\obj\Debug\net8.0\ref\Dg.Pays.Domain.dll

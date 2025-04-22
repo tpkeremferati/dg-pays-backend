@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dg.Pays.Infrastructure
-build_property.ProjectDir = C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Infrastructure\
+build_property.ProjectDir = C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -42,7 +42,7 @@ namespace Dg.Pays.Api.Controllers
             }
         }
 
-        [HttpGet("{transactionId}")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> GetTransaction([Required] string id)
         {
             var transaction = await _transactionService.GetTransactionByIdAsync(id);

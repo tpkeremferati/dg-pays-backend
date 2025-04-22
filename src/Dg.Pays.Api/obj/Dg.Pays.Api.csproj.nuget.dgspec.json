@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Api\\Dg.Pays.Api.csproj": {}
+    "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Api\\Dg.Pays.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Api\\Dg.Pays.Api.csproj": {
+    "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Api\\Dg.Pays.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Api\\Dg.Pays.Api.csproj",
+        "projectUniqueName": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Api\\Dg.Pays.Api.csproj",
         "projectName": "Dg.Pays.Api",
-        "projectPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Api\\Dg.Pays.Api.csproj",
+        "projectPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Api\\Dg.Pays.Api.csproj",
         "packagesPath": "C:\\Users\\kerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Api\\obj\\",
+        "outputPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Application\\Dg.Pays.Application.csproj": {
-                "projectPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Application\\Dg.Pays.Application.csproj"
+              "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Application\\Dg.Pays.Application.csproj": {
+                "projectPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Application\\Dg.Pays.Application.csproj"
               },
-              "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj": {
-                "projectPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj"
+              "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj": {
+                "projectPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj"
               },
-              "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj"
+              "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Application\\Dg.Pays.Application.csproj": {
+    "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Application\\Dg.Pays.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Application\\Dg.Pays.Application.csproj",
+        "projectUniqueName": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Application\\Dg.Pays.Application.csproj",
         "projectName": "Dg.Pays.Application",
-        "projectPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Application\\Dg.Pays.Application.csproj",
+        "projectPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Application\\Dg.Pays.Application.csproj",
         "packagesPath": "C:\\Users\\kerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Application\\obj\\",
+        "outputPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -139,8 +139,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj": {
-                "projectPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj"
+              "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj": {
+                "projectPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj"
               }
             }
           }
@@ -185,14 +185,14 @@
         }
       }
     },
-    "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj": {
+    "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj",
         "projectName": "Dg.Pays.Domain",
-        "projectPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj",
+        "projectPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj",
         "packagesPath": "C:\\Users\\kerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Domain\\obj\\",
+        "outputPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -250,14 +250,14 @@
         }
       }
     },
-    "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj": {
+    "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj",
         "projectName": "Dg.Pays.Infrastructure",
-        "projectPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\kerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -279,8 +279,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj": {
-                "projectPath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj"
+              "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj": {
+                "projectPath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Domain\\Dg.Pays.Domain.csproj"
               }
             }
           }

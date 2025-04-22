@@ -15,3 +15,21 @@ C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.
 C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays.Infrastructure.pdb
 C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays.Infrastructure.genruntimeconfig.cache
 C:\Users\kerem\Downloads\dg-pays-case-b1-master 2\dg-pays-case-b1-master\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\ref\Dg.Pays.Infrastructure.dll
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\bin\Debug\net8.0\Dg.Pays.Infrastructure.deps.json
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\bin\Debug\net8.0\Dg.Pays.Infrastructure.runtimeconfig.json
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\bin\Debug\net8.0\Dg.Pays.Infrastructure.dll
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\bin\Debug\net8.0\Dg.Pays.Infrastructure.pdb
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\bin\Debug\net8.0\Dg.Pays.Domain.dll
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\bin\Debug\net8.0\Dg.Pays.Domain.pdb
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays.Infrastructure.AssemblyInfo.cs
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays.Infrastructure.sourcelink.json
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays..12F8E3A4.Up2Date
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays.Infrastructure.dll
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\refint\Dg.Pays.Infrastructure.dll
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays.Infrastructure.pdb
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\Dg.Pays.Infrastructure.genruntimeconfig.cache
+C:\Users\kerem\Documents\GitHub\dg-pays-backend\src\Dg.Pays.Infrastructure\obj\Debug\net8.0\ref\Dg.Pays.Infrastructure.dll

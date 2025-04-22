@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxuFr44d4nw=",
+  "dgSpecHash": "ub2xa7w2YB4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\tests\\Dg.Pays.Application.Tests\\Dg.Pays.Application.Tests.csproj",
+  "projectFilePath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\tests\\Dg.Pays.Application.Tests\\Dg.Pays.Application.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kerem\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\kerem\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

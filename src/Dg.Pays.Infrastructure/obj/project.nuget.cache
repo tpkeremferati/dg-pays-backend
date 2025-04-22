@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x9Ow/YThgUQ=",
+  "dgSpecHash": "T0Bznii8IdE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kerem\\Downloads\\dg-pays-case-b1-master 2\\dg-pays-case-b1-master\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\kerem\\Documents\\GitHub\\dg-pays-backend\\src\\Dg.Pays.Infrastructure\\Dg.Pays.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kerem\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\kerem\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
